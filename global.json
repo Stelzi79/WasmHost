@@ -1,0 +1,6 @@
+{
+	"msbuild-sdks": {
+		"Microsoft.NET.Sdk": "6.0.100-*",
+		"Stelzi79.NetSdk": "0.8.0-preview"
+	}
+}
